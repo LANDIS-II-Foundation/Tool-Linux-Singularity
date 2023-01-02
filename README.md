@@ -1,6 +1,8 @@
-# These files and data were developed to work with the NCSU HPC, but should be generalized to any Linux configuration that support Singularity.
+# Notes
+These files and data were developed to work with the NCSU HPC, but should be generalized to any Linux configuration that support Singularity.
 
 ## [Google drive folder with](https://drive.google.com/drive/u/0/folders/1O3R2hk0_2052-l0Vql-mpotOMDTtdu23) 
+The steps below will help you build the .sif and .sdef files.
 1) example LANDIS-ii input data
 2) successfully built and run .sif
 3) .sdef used to build the .sif
